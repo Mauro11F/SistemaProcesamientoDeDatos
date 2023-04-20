@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Ejercicio N°5</title>
+</head>
+
+<body>
+
+   <!-- Ingresar datos a la variable A y A1, hasta que las dos variables 
+      tenga valor cero, sumar los datos ingresados e informar el mismo. 
+   -->
+
+   <script>
+
+      var a, a1, result;
+      result = 0;
+
+      do {
+
+         a = parseInt(window.prompt("Introduce un valor 'a' ó 0 = SALIR"));
+         a1 = parseInt(window.prompt("Introduce otro valor 'a1' ó 0 = SALIR"));
+
+         result = result + a + a1;
+
+      } while (a !== 0 || a1 !== 0);
+
+      document.write("La suma de los numeros ingresados es: " + result);
+
+
+   </script>
+
+</body>
+
+</html>
