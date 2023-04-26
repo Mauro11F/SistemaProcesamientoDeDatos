@@ -1,0 +1,8 @@
+1,Mauro,100000,1
+2,Natalia,80000,2
+3,Antonio,75000,1
+4,Catalina,45000,1
+5,Robert,120000,2
+6,Teresa,65000,2
+7,Emiliano,67000,1
+8,Raquel,83200,1

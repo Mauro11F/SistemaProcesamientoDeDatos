@@ -48,8 +48,8 @@
    <fieldset>
       <legend>Informes:</legend>
 
-      <button><a href="">Punto-15</a></button>
-      <button><a href="">Punto-16</a></button>
+      <button><a href="inforP15.php">Punto-15</a></button>
+      <button><a href="inforP16.php">Punto-16</a></button>
    </fieldset>
 
 </body>
